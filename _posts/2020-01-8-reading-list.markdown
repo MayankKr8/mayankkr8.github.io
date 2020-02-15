@@ -3,7 +3,7 @@ title: "Started Reading Again"
 layout: post
 tag: books
 img: indigo/indigo.png
-blog: true
+category: blog
 author: mayank
 summary: "List of books I'm reading this year"
 permalink: reading-list
