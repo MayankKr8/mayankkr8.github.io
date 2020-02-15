@@ -22,9 +22,9 @@ _"You already have your goodreads' profile linked, why do you want to make anoth
 
 While goodreads provides great lists, it doesn't have an abandoned list (or maybe I am too noob to find), which if true, is a good gesture of respect towards books and authors. However, I am too new into the reading world for this. So as I progress, I will keep udating a list of books I have read and the books I abandoned, with preferably a reason (I will try my best, no guarantees though).
 
-I have got some great friends, with very good recommendations, so I will be trusting them. I get my dose of drama from the movies and shows I watch so I have chosen non-fiction to be the genre to begin with. Why choose agenre at all you ask? I really want to hold on to this habbit/hobby and from what I believe, making it more organised will help me cross the tipping point easily. So I begin this journey.
+I have got some great friends, with very good recommendations, so I will be trusting them. I get my dose of drama from the movies and shows I watch so I have chosen non-fiction to be the genre to begin with. Why choose a genre at all you ask? I really want to hold on to this habbit/hobby and from what I believe, making it more organised will help me cross the tipping point easily. So I begin this journey.
 
-Update(29 Jan 2020) I thought I will begin with non-fiction, but turns out I am sort of a sucker for stories. 
+**Update(29 Jan 2020)** I thought I will begin with non-fiction, but turns out I am sort of a sucker for stories. 
 
 _Hey, stories can be enightening too_
 
@@ -38,4 +38,4 @@ History:
 
 ---
 
-<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00IYUYF4A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_JeCIAbKEW0MD0" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://www.amazon.in/gp/product/8172234988/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" ></iframe>
