@@ -38,4 +38,4 @@ History:
 
 ---
 
-<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://www.amazon.in/gp/product/8172234988/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://www.amazon.in/dp/8172234988" ></iframe>
