@@ -1,5 +1,5 @@
 ---
-title: "2016 Reading List"
+title: "Reading List"
 layout: post
 tag: books
 img: indigo/indigo.png
