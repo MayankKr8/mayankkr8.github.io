@@ -37,5 +37,4 @@ History:
 - Updated: Jan 29, 2020
 
 ---
-
-<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://www.amazon.in/dp/8172234988" ></iframe>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B00U6SFUSS&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_LlhsEbNQ7JKEW" ></iframe>
