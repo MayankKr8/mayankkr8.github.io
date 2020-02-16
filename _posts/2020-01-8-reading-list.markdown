@@ -10,7 +10,7 @@ permalink: reading-list
 jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.github.com/images/icons/emoji/unicode/1f4da.png" height="20" width="20" align="absmiddle">'
 ---
 
-So I write my first blog for this website.
+So I write my first post for this website.
 
 Since I have the luxury of time at the moment, I decided to make this website. After taking the initial theme I came across [Arti Annaswamy's](https://github.com/aannasw/aannasw.github.io) version of it. Coincidently she had this section of reading lists herself, which insopired me to write my first post (you might not believe this but I honestly don't care). 
 
