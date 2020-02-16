@@ -12,7 +12,7 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 
 So I write my first post for this website.
 
-Since I have the luxury of time at the moment, I decided to make this website. After taking the initial theme I came across [Arti Annaswamy's](https://github.com/aannasw/aannasw.github.io) version of it. Coincidently she had this section of reading lists herself, which insopired me to write my first post (you might not believe this but I honestly don't care). 
+Since I have the luxury of time at the moment, I decided to make this website. After taking the initial theme I came across [Arti Annaswamy's](https://github.com/aannasw/aannasw.github.io) version of it. Coincidently she had this section of reading lists herself, which inspired me to write my first post (you might not believe this but I honestly don't care). 
 
 I always enjoyed a good story or an article while growing up. But complete books were never my thing. I was afraid of committing (applies strictly to this) my time and then to not get as happy or content as I thought or was promised. Hence I read books only when forced academically.
 
