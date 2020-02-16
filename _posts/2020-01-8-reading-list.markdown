@@ -26,7 +26,7 @@ I have got some great friends, with very good recommendations, so I will be trus
 
 **Update(29 Jan 2020)** I thought I will begin with non-fiction, but turns out I am sort of a sucker for stories. 
 
-_Hey, stories can be enightening too_
+_Hey, stories can be enlightening too_
 
 Before I drop this resoultion too soon, I have also developed a contingency plan with Science and Science Fiction. I have got a few inspirations from [Rohan Narayana Murty's](http://www.eecs.harvard.edu/~rohan/Books.html) list.
 
