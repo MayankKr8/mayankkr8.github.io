@@ -5,6 +5,7 @@ layout: page
 <h2 align="center"> Academia</h2>
 <h4 align="center"> (Welcome to the *not-so* interesting part!) </h4>
 
+<h3 align="center"> <a style="text-decoration:none" href="https://mayankkr8.github.io/assets/My_CV.pdf"> Resume</a> (Often outdated) </h>
 ### Affiliations
 
 #### Current
