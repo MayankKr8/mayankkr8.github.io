@@ -1,13 +1,13 @@
 ---
 title: Academia
 ---
-<b><p align="center"> Welcome to the *not-so* interseting part! </p></b>
+<b> <p align="center"> Welcome to the *not-so* interseting part! </p> </b>
 
 ### Affiliations
 
 #### Current
-**Indian Institute of Technology (BHU) Varanasi** </br>
-<a style="text-decoration:none" href="https://iitbhu.ac.in/dept/cse">Computer Science and Engineering</a></br>
+**Indian Institute of Technology (BHU) Varanasi**  </br>
+<a style="text-decoration:none" href="https://iitbhu.ac.in/dept/cse">Computer Science and Engineering</a> </br>
 Senior Undergrad (IDD)  <span class="smallcaps">GPA</span>: **9.12/10**
 
 #### Previous
