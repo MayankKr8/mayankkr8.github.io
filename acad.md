@@ -11,7 +11,7 @@ layout: page
 <a style="text-decoration:none" href="https://iitbhu.ac.in/dept/cse">Computer Science and Engineering</a> </br>
 Senior Undergrad (IDD)  <span class="smallcaps">GPA</span>: **9.12/10**
 
-#### Previous
+#### Previous LL
 
 **City, Univerdity of London**     
 <a style="text-decoration:none" href="https://www.city.ac.uk/people/academics/muttukrishnan-rajarajane"> Professor MuttuKrishnan Rajarajan</a></br>
