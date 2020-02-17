@@ -15,8 +15,8 @@ Senior Undergrad (IDD)  <span class="smallcaps">GPA</span>: **9.12/10**
 #### Previous 
 
 **City, Univerdity of London**     
-<a style="text-decoration:none" href="https://www.city.ac.uk/people/academics/muttukrishnan-rajarajane"> Professor MuttuKrishnan Rajarajan</a> </br>
-School of Mathematics, Computer Science and Engineering </br>
+<a style="text-decoration:none" href="https://www.city.ac.uk/people/academics/muttukrishnan-rajarajane"> Professor MuttuKrishnan Rajarajan</a>\
+School of Mathematics, Computer Science and Engineering \
 Visiting Research Scholar, Summers 2018
 
 
