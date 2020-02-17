@@ -1,7 +1,7 @@
 ---
 title: Academia
 ---
-<p align="center"> Welcome to the *not-so* interseting part! </p>
+<b><p align="center"> Welcome to the *not-so* interseting part! </p></b>
 
 ### Affiliations
 
