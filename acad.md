@@ -9,7 +9,7 @@ layout: page
 |                                                   |                                                                        |
 | :-------------------------------------------------|:-----------------------------------------------------------------------|
 | <span class="smallcaps">2015 - Current</span>     |    **Indian Institute of Technology (BHU) Varanasi**                   |
-|                          Department               |    <a style=text-decoration:none; href="https://iitbhu.ac.in/dept/cse">Computer Science and Engineering</a>|
+|                          Department               |    <a style="text-decoration:none" href="https://iitbhu.ac.in/dept/cse">Computer Science and Engineering</a>|
 |                          Position                 |    Senior Undergrad(IDD)<span class="smallcaps">GPA</span>: **9.12/10**|
 
 #### Previous
