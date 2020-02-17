@@ -10,7 +10,7 @@ layout: page
 |                                                  |
 | :------------------------------------------      |
 |**Indian Institute of Technology (BHU) Varanasi** |
-|<a style="text-decoration:none" href="https://iitbhu.ac.in/dept/cse">Computer Science and Engineering</a>\|
+|<a style="text-decoration:none" href="https://iitbhu.ac.in/dept/cse">Computer Science and Engineering</a> |
 |Senior Undergrad (IDD)  <span class="smallcaps">GPA</span>: **9.12/10**|
 
 #### Previous 
