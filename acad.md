@@ -3,7 +3,7 @@ title: Academia
 layout: page
 ---
 <h2 align="center"> Academia</h2>
-<h4 align="center"> Welcome to the *not-so* interesting part! </h4>
+<h4 align="center"> (Welcome to the *not-so* interesting part!) </h4>
 
 ### Affiliations
 
