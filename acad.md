@@ -12,16 +12,6 @@ Welcome to the \*not-so* interseting part!
 |                          Position             | Senior Undergrad(IDD)<span class="smallcaps">GPA</span>: **9.12/10**|
 
 
-
-
-/*: |                                               |                                                       |
-|           <span class="smallcaps">2014</span> | All India Senior School Certificate Examination(CBSE) |
-|                                               | <span class="smallcaps">Score</span>: **97.4%**       |
-|                                               |                                                       |
-|           <span class="smallcaps">2012</span> | All India Secondary School Examination(CBSE)          |
-|                                               | <span class="smallcaps">CGPA</span>: **10/10**        |*/
-
-
 ### Publications
 
 |                                             |                                                                                                |
