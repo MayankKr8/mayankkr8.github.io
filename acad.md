@@ -19,10 +19,10 @@ Senior Undergrad (IDD)  <span class="smallcaps">GPA</span>: **9.12/10**
 School of Mathematics, Computer Science and Engineering  
 Visiting Research Scholar, Summers 2018
 
-**Institute of Development and Research in Banking Technology**     
-<a style="text-decoration:none" href="https://www.idrbt.ac.in/psyam.html"> Dr P. Syam Kumar</a>\
-Centre for Cloud Computing\
-Summer Project Trainee, Summers 2017
+**Institute of Development and Research in Banking Technology**       
+<a style="text-decoration:none" href="https://www.idrbt.ac.in/psyam.html"> Dr P. Syam Kumar</a>  
+Centre for Cloud Computing  
+Summer Project Trainee, Summers 2017  
 
 ### Publications
 
