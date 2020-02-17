@@ -2,7 +2,8 @@
 title: Academia
 layout: page
 ---
-Welcome to the \*not-so\* interseting part! 
+<p align="center"> Welcome to the \*not-so\* interseting part! </p>
+
 ### Affiliations
 
 |                                                   |                                                                     |
@@ -21,7 +22,7 @@ Welcome to the \*not-so\* interseting part!
 |                                             | \(14^{th}\) International Conference on Distributed Computing and Internet Technology (ICDCIT) |
 |                                             |                                                                                                |
 
- Relevant Coursework
+### Relevant Coursework
 
 |                  |                                                                      |
 | ---------------: | :------------------------------------------------------------------- |
