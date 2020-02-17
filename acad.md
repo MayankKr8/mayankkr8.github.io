@@ -2,7 +2,7 @@
 title: Academia
 layout: page
 ---
-  **Welcome to the *not-so* interseting part!**
+<center> **Welcome to the *not-so* interseting part!** </center>
 
 ### Affiliations
 
