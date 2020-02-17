@@ -14,7 +14,7 @@ Welcome to the \*not-so* interseting part!
 
 
 
-/* |                                               |                                                       |
+/*: |                                               |                                                       |
 |           <span class="smallcaps">2014</span> | All India Senior School Certificate Examination(CBSE) |
 |                                               | <span class="smallcaps">Score</span>: **97.4%**       |
 |                                               |                                                       |
