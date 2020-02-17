@@ -32,17 +32,13 @@ Summer Project Trainee, Summers 2017
 **Mayank Kumar**, Dr. P. Syam Kumar  
 14<sup>th</sup> International Conference on Distributed Computing and Internet Technology (ICDCIT), January 2018 
 
-### Relevant Coursework
+### Skills and Interests
 
-|                  |                                                                      |
-| ---------------: | :------------------------------------------------------------------- |
-| Computer Science | Data Structures, Artificial Intelligence, Information Security,      |
-|                  | Operating Systems, Theory of Computation, Computer Networks          |
-|                  | Network security, Intelligent Computing, Information Retrieval,      |
-|                  | Computer Architecture, Database Management Systems, Software         |
-|                  | Engineering, Computer Graphics.                                      |
-|      Mathematics | Calculus, Linear Algebra and Differential Equations, Probability and |
-|                  | Statistics, Mathematical Modelling, Number Theory.                   |
+|                                                   |                                                                           |
+| ------------------------------------------------: | :------------------------------------------------------------------------ |
+|         <span class="smallcaps">Languages:</span> | C/C++, Python, HTML/CSS, Javascript                                       |
+|      <span class="smallcaps">Technologies:</span> | BASH, Django, Arduino IDE, Git, LaTeX .                                   |
+| <span class="smallcaps">Operating Systems:</span> | Linux Packages(Ubuntu,Kali,ParrotOS), Openstack(Cloud), Raspian, Windows. |
 
 ### Scholastic Achievements
 
@@ -55,14 +51,6 @@ Summer Project Trainee, Summers 2017
 | <span class="smallcaps">June.</span> 2014 | Received the Scholarship for Higher Education (SHE) under the INSPIRE program        |
 |                                           | of the Ministry of Science and Technology awarded to top 1% of the class XII         |
 |                                           | examination.                                                                         |
-
-### Skills and Interests
-
-|                                                   |                                                                           |
-| ------------------------------------------------: | :------------------------------------------------------------------------ |
-|         <span class="smallcaps">Languages:</span> | C/C++, Python, HTML/CSS, Javascript                                       |
-|      <span class="smallcaps">Technologies:</span> | BASH, Django, Arduino IDE, Git, LaTeX .                                   |
-| <span class="smallcaps">Operating Systems:</span> | Linux Packages(Ubuntu,Kali,ParrotOS), Openstack(Cloud), Raspian, Windows. |
 
 ### Extra-curricular Activities
 
