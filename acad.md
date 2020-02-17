@@ -35,10 +35,10 @@ Summer Project Trainee, Summers 2017
 ### Skills and Interests
 
 |                                                   |                                                                           |
-| ------------------------------------------------: | :------------------------------------------------------------------------ |
-|         <span class="smallcaps">Languages:</span> | C/C++, Python, HTML/CSS, Javascript                                       |
-|      <span class="smallcaps">Technologies:</span> | BASH, Django, Arduino IDE, Git, LaTeX .                                   |
-| <span class="smallcaps">Operating Systems:</span> | Linux Packages(Ubuntu,Kali,ParrotOS), Openstack(Cloud), Raspian, Windows. |
+| -----------------: | :------------------------------------------------------------------------ |
+|         **Languages**: | C/C++, Python, HTML/CSS, Javascript                                       |
+|      **Technologies**: | BASH, Django, Arduino IDE, Git, LaTeX .                                   |
+| **Operating Systems**: | Linux Packages(Ubuntu,Kali,ParrotOS), Openstack(Cloud), Raspian, Windows. |
 
 ### Scholastic Achievements
 
