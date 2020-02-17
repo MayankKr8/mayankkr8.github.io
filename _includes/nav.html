@@ -29,6 +29,14 @@
                 </li>
             {% endif %}
         {% endif %}
+        
+        {% if site.acad == true %}
+            {% if page.title != "Academia" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/acad">Academia</a>
+                </li>
+            {% endif %}
+        {% endif %}
 
         {% if site.resume == true %}
             <li class="item">
