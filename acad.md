@@ -26,13 +26,9 @@ Centre for Cloud Computing
 Summer Project Trainee, Summers 2017  
 
 ### Publications
-
-|                                             |                                                                                                |
-| ------------------------------------------: | :--------------------------------------------------------------------------------------------- |
-| <span class="smallcaps">January 2018</span> | **Lightweight Verifiable Auditing Scheme for Outsourced database in Cloud Computing**          |
-|                                             | **Mayank Kumar**, Dr. P. Syam Kumar                                                            |
-|                                             | \(14^{th}\) International Conference on Distributed Computing and Internet Technology (ICDCIT) |
-|                                             |                                                                                                |
+**Lightweight Verifiable Auditing Scheme for Outsourced database in Cloud Computing**  
+**Mayank Kumar**, Dr. P. Syam Kumar  
+14<sup>th</sup> International Conference on Distributed Computing and Internet Technology (ICDCIT), January 2018 
 
 ### Relevant Coursework
 
