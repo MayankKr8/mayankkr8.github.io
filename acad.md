@@ -2,14 +2,14 @@
 title: Academia
 layout: page
 ---
-Welcome to the \*not-so* interseting part!
+Welcome to the \*not-so\* interseting part! 
 ### Affiliations
 
-|                                               |                                                                     |
-| --------------------------------------------: | :-------------------------------------------------------------------|
-| <span class="smallcaps">2015 - Current</span> | **Indian Institute of Technology (BHU) Varanasi**                   |
-|                          Department           | [Computer Science and Engineering](https://iitbhu.ac.in/dept/cse)   |
-|                          Position             | Senior Undergrad(IDD)<span class="smallcaps">GPA</span>: **9.12/10**|
+|                                                   |                                                                     |
+| --------------------------------------------:     |    :-------------------------------------------------------------------|
+| <span class="smallcaps">2015 - Current</span>     |    **Indian Institute of Technology (BHU) Varanasi**                   |
+|                          Department               |    [Computer Science and Engineering](https://iitbhu.ac.in/dept/cse)   |
+|                          Position                 |    Senior Undergrad(IDD)<span class="smallcaps">GPA</span>: **9.12/10**|
 
 
 ### Publications
