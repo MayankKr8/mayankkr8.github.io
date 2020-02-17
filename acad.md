@@ -16,7 +16,7 @@ layout: page
 
 |                                                   |                                                                        |
 | :-------------------------------------------------|:-----------------------------------------------------------------------|
-| <span class="smallcaps">2015 - Current</span>     |    **Indian Institute of Technology (BHU) Varanasi**                   |
+|                                                   |    **City Univerdity of London**                   |
 |                          Department               |    [Computer Science and Engineering](https://iitbhu.ac.in/dept/cse)   |
 |                          Position                 |    Senior Undergrad(IDD)<span class="smallcaps">GPA</span>: **9.12/10**|
 
