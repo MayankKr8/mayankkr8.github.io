@@ -2,7 +2,8 @@
 title: Academia
 layout: page
 ---
-<h2 align="center"> Welcome to the *not-so* interseting part!</h2>
+<h2 align="center"> Academia</h2>
+<h5 align="center"> Welcome to the not-so interesting part</h5>
 
 ### Affiliations
 
