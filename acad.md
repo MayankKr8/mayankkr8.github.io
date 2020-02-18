@@ -1,5 +1,5 @@
 ---
-title: Academia
+title: Academics
 layout: page
 ---
 <h2 align="center"> Academia</h2>
