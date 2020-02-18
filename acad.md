@@ -44,8 +44,6 @@ Summer Project Trainee, Summers 2017
 
 |                                           |                                                                                      |
 | ----------------------------------------: | :----------------------------------------------------------------------------------- |
-| <span class="smallcaps">July.</span> 2015 | All India Rank of 3289 in IIT JEE Advanced attempted by about 150,000 students.      |
-| <span class="smallcaps">July.</span> 2015 | All India Rank of 1302 in IIT JEE Mains attempted by about 1,200,000 students.       |
 | <span class="smallcaps">July.</span> 2014 | Received CBSE Merit certificate from the Human Resource Development Minister         |
 |                                           | of India for being in the top 0.1% in All India Senior Secondary School Examination. |
 | <span class="smallcaps">June.</span> 2014 | Received the Scholarship for Higher Education (SHE) under the INSPIRE program        |
