@@ -49,16 +49,14 @@ Summer Project Trainee, Summers 2017
 
 ### Extra-curricular Activities
 
-  - Built robots equipped with IR sensors, capable of detecting and
-    decoding IR signals using Atmega 16 microcontroller and Arduino IDE.
+|                                            |                                                                                      |
+| :----------------------------------------: | :----------------------------------------------------------------------------------- |
+|             September 2015                 | Built robots equipped with IR sensors, capable of detecting and decoding IR signals  |
+|                                            | using Atmega 16 microcontroller and Arduino IDE.                                     |
+|              February 2016                 | Built a working radio-controlled Quad-copter with high maneuverability, stability,   |
+|                                            | speed and thrust at Technex’16, the Annual Techno - Management Fest of IIT BHU.      |
+|              February 2016                 | Built a hand - gesture controlled robot using Atmega 16 microcontroller and Arduino  |
+|                                            | IDE at Technex’16.                                                                   |
+|             September 2016                 | Worked with Picubes (A start-up awarded and funded by Ericsson Innovation Awards 2016|
+|                                            | ) on a Smart Helmet for two-wheelers.                                                |
 
-  - Built a hand - gesture controlled robot using Atmega 16
-    microcontroller and Arduino IDE at Technex’16, the Annual Techno -
-    Management Fest of IIT BHU.
-
-  - Built a working radio-controlled Quad-copter with high
-    maneuverability, stability, speed and thrust at Technex’16, the
-    Annual Techno - Management Fest of IIT BHU.
-
-  - Worked with Picubes (A start-up awarded and funded by Ericsson
-    Innovation Awards 2016) on a Smart Helmet for two-wheelers.
