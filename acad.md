@@ -40,7 +40,7 @@ Summer Project Trainee, Summers 2017
 ### Scholastic Achievements
 
 |                                           |                                                                                      |
-| ----------------------------------------: | :----------------------------------------------------------------------------------- |
+| :----------------------------------------:| :----------------------------------------------------------------------------------- |
 | <span class="smallcaps">July.</span> 2014 | Received CBSE Merit certificate from the Human Resource Development Minister         |
 |                                           | of India for being in the top 0.1% in All India Senior Secondary School Examination. |
 | <span class="smallcaps">June.</span> 2014 | Received the Scholarship for Higher Education (SHE) under the INSPIRE program        |
@@ -57,6 +57,6 @@ Summer Project Trainee, Summers 2017
 |                                            | speed and thrust at Technex’16, the Annual Techno - Management Fest of IIT BHU.      |
 |              February 2016                 | Built a hand - gesture controlled robot using Atmega 16 microcontroller and Arduino  |
 |                                            | IDE at Technex’16.                                                                   |
-|             September 2016                 | Worked with Picubes (A start-up awarded and funded by Ericsson Innovation Awards 2016|
-|                                            | ) on a Smart Helmet for two-wheelers.                                                |
+|             September 2016                 | Worked with Picubes (A start-up awarded and funded by Ericsson Innovation Awards     |
+|                                            | 2016) on a Smart Helmet for two-wheelers.                                            |
 
