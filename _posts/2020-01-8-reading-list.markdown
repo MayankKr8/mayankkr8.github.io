@@ -48,7 +48,7 @@ History:
 
 <div class="side-by-side">
 <div class="toleft">
-    <a href="https://www.amazon.in/Ishq-Mein-Shahar-Laprek-Trilogy/dp/8126727675/"><img src="../assets/images/Ishqsheher.jpg"  width="212" height="362" /></a>
+    <a href="https://www.amazon.in/Ishq-Mein-Shahar-Laprek-Trilogy/dp/8126727675/"><img class="image" src="../assets/images/Ishqsheher.jpg"  width="212" height="362" /></a>
 </div>
  <div class="toright">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
