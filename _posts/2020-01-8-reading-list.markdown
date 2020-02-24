@@ -49,4 +49,4 @@ History:
 
 *Category: Books›Literature & Fiction›Short Stories› 
 	
-<p align="left"><a href="https://www.amazon.in/Ishq-Mein-Shahar-Laprek-Trilogy/dp/8126727675/"><img src="https://raw.githubusercontent.com/mayankkr8/mayankkr8.github.io/master/assets/images/ishqsheher.jpg" /></a></p>
+<p align="left"><a href="https://www.amazon.in/Ishq-Mein-Shahar-Laprek-Trilogy/dp/8126727675/"><img src="assets/images/ishqsheher.jpg" /></a></p>
