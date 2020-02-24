@@ -51,6 +51,6 @@ History:
     <a href="https://www.amazon.in/Ishq-Mein-Shahar-Laprek-Trilogy/dp/8126727675/"><img class="image" src="../assets/images/Ishqsheher.jpg"  width="212" height="362" /></a>
 </div>
  <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>I got this book solely on my admiration of the author's unique way of narration, where one finds a soul - a human connect. The book is an experimental genre, "LaPreK(Laghu Prem Katha; _translates to_ Short Love Stories). A compilation of one page lover-stories, mostly anecdotes set in a well known location of a city, most often Delhi. I have been to Delhi enough times to know about _Chandni Chowk ke paranthe_(Stuffed Indian Bread) and to even get memes based on Rajiv Chowk Metro Station. But there's still  a lot to discover. The book is based on Delhi landscapes, which maybe I haven't even heard of. Hence, this books lacks the emotional connect for me. And therefore, I not completely give up on this, but surely have no plans in the near future.
 </div>
 </div>
