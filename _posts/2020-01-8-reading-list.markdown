@@ -45,7 +45,7 @@ History:
 <iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B00I7JO1O2&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_MW2uEb8GRASJY" ></iframe>
 
 ### Abandoned
-<h3>1. <a href="http://amzn.to/1UoRJSV" target="_blank">Thinking with Type</a> by Ellen Lupton (2004)</h3>	
+<h3>1. <a href="http://amzn.to/1UoRJSV" target="_blank">Ishq me sheher hona</a> by Ravish Kumar (2015)</h3>	
 
 *Category: Books›Literature & Fiction›Short Stories› 
 	
