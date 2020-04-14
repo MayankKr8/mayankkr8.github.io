@@ -44,6 +44,7 @@ History:
 ### Currently Reading
 
 <iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00IYUYF4A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_JeCIAbKEW0MD0" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B00G1TOJ7Y&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_iAyLEbSAYVJJS" ></iframe>
 
 ### Abandoned
 
