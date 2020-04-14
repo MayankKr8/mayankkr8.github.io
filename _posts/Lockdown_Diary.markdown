@@ -38,12 +38,11 @@ History:
 ---
 ### Read
 <iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B00U6SFUSS&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_LlhsEbNQ7JKEW" ></iframe>
-<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B00I7JO1O2&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_MW2uEb8GRASJY" ></iframe>
-<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B004E9T0KY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_8xyLEb6TSN9BD" ></iframe>
 
 ### Currently Reading
 
 <iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00IYUYF4A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_JeCIAbKEW0MD0" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B00I7JO1O2&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_MW2uEb8GRASJY" ></iframe>
 
 ### Abandoned
 
