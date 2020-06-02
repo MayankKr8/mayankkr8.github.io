@@ -41,17 +41,17 @@ Summer Project Trainee, Summers 2017
 ### Scholastic Achievements
 
 |                                           |                                                                                      |
-| :----------------------------------------:| :----------------------------------------------------------------------------------- |
-| <span class="smallcaps">July.</span> 2014 | Received CBSE Merit certificate from the Human Resource Development Minister         |
+|  ----------------------------------------:| :----------------------------------------------------------------------------------- |
+| <span class="smallcaps">July</span> 2014  | Received CBSE Merit certificate from the Human Resource Development Minister         |
 |                                           | of India for being in the top 0.1% in All India Senior Secondary School Examination. |
-| <span class="smallcaps">June.</span> 2014 | Received the Scholarship for Higher Education (SHE) under the INSPIRE program        |
+| <span class="smallcaps">June</span> 2014  | Received the Scholarship for Higher Education (SHE) under the INSPIRE program        |
 |                                           | of the Ministry of Science and Technology awarded to top 1% of the class XII         |
 |                                           | examination.                                                                         |
 
 ### Extra-curricular Activities
 
 |                                            |                                                                                      |
-| :----------------------------------------: | :----------------------------------------------------------------------------------- |
+|  ----------------------------------------: | :----------------------------------------------------------------------------------- |
 |             September 2015                 | Built robots equipped with IR sensors, capable of detecting and decoding IR signals  |
 |                                            | using Atmega 16 microcontroller and Arduino IDE.                                     |
 |              February 2016                 | Built a working radio-controlled Quad-copter with high maneuverability, stability,   |
