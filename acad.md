@@ -7,12 +7,13 @@ layout: page
 ### Affiliations
 
 #### Current
+Desperately looking for one!
+
+#### Previous 
 
 **Indian Institute of Technology (BHU) Varanasi**  
 <a style="text-decoration:none" href="https://iitbhu.ac.in/dept/cse">Computer Science and Engineering</a>  
 Senior Undergrad (IDD)  <span class="smallcaps">GPA</span>: <a style="text-decoration:none" href="https://mayankkr8.github.io/assets/Grades.pdf">9.12/10</a>  
-
-#### Previous 
 
 **City, University of London**     
 <a style="text-decoration:none" href="https://www.city.ac.uk/people/academics/muttukrishnan-rajarajane"> Professor Muttukrishnan Rajarajan</a>  
