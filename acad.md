@@ -48,7 +48,7 @@ Bhaskar Mukhoty, Ruchir Gupta, Lakshmanan K., **Mayank Kumar** <br>
 |      **Technologies**: | BASH, Django, Arduino IDE, Git, LaTeX .                                   |
 | **Operating Systems**: | Linux Packages(Ubuntu,Kali,ParrotOS), Openstack(Cloud), Raspian, Windows. |
 
-### Scholastic Achievements
+[//]: <> ### Scholastic Achievements
 
 |                                           |                                                                                      |
 |  ----------------------------------------:| :----------------------------------------------------------------------------------- |
