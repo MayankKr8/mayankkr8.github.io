@@ -7,7 +7,8 @@ layout: page
 ### Affiliations
 
 #### Current
-Desperately looking for one!
+Software Development Engineer at an Ad-Tech Company <br>
+<sup><sub>(Money may not buy happiness, but it sure does pay the bills)</sub></sup>
 
 #### Previous 
 
@@ -31,11 +32,11 @@ Summer Project Trainee, Summers 2017
 14<sup>th</sup> International Conference on Distributed Computing and Internet Technology (ICDCIT), January 2018 
 
 <a style="text-decoration:none" href="https://doi.org/10.1007/s10489-020-01812-2"> A parameter-free affinity based clustering</a>   
-Bhaskar Mukhoty, Ruchir Gupta, Lakshmanan K., **Mayank Kumar** 
+Bhaskar Mukhoty, Ruchir Gupta, Lakshmanan K., **Mayank Kumar** <br>
 <a style="text-decoration:none" href="https://link.springer.com/journal/10489"> Applied Intelligence </a>Volume 50 Number 12, July 2020
 
 <a style="text-decoration:none" href="https://doi.org/10.1007/s10489-020-02030-6"> Overlapping Attributed Graph Clustering using Mixed strategy games</a>   
-**Mayank Kumar**, Ruchir Gupta 
+**Mayank Kumar**, Ruchir Gupta  <br>
 <a style="text-decoration:none" href="https://link.springer.com/journal/10489"> Applied Intelligence </a> January 2021
  
 
