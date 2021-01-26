@@ -27,8 +27,17 @@ Summer Project Trainee, Summers 2017
 
 ### Publications
 <a style="text-decoration:none" href="https://doi.org/10.1007/978-3-319-72344-0_23"> Lightweight Verifiable Auditing Scheme for Outsourced database in Cloud Computing</a>   
-**Mayank Kumar**, Dr. P. Syam Kumar  
+**Mayank Kumar**, P. Syam Kumar  
 14<sup>th</sup> International Conference on Distributed Computing and Internet Technology (ICDCIT), January 2018 
+
+<a style="text-decoration:none" href="https://doi.org/10.1007/s10489-020-01812-2"> A parameter-free affinity based clustering</a>   
+Bhaskar Mukhoty, Ruchir Gupta, Lakshmanan K., **Mayank Kumar** 
+<a style="text-decoration:none" href="https://link.springer.com/journal/10489"> Applied Intelligence </a>Volume 50 Number 12, July 2020
+
+<a style="text-decoration:none" href="https://doi.org/10.1007/s10489-020-02030-6"> Overlapping Attributed Graph Clustering using Mixed strategy games</a>   
+**Mayank Kumar**, Ruchir Gupta 
+<a style="text-decoration:none" href="https://link.springer.com/journal/10489"> Applied Intelligence </a> January 2021
+ 
 
 ### Skills and Interests
 
